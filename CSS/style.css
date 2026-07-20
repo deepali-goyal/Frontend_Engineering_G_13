@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-family: "Montenegrin Gothic One", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.Header {
+    text-align: center;
+    color: palevioletred;
+    text-decoration: underline;
+    font-size: 40px;
+}
+#Header2{
+    text-align: center;
+    color: pink;
+    text-decoration: underline;
+    font-size: 40px;;
+}
+.p {
+    font-family: "Montenegrin Gothic One", serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  font-style: normal;
+  font-weight: 400;
+}
+.img{
+    text-align: center;
+    border-radius:50%;
+}
